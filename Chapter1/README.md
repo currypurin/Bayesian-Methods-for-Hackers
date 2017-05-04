@@ -1,2 +1,2 @@
 - 本編資料:https://speakerdeck.com/cougar/170503-bayesianmethods4hackers-1
-- LT:https://github.com/currypan/Bayesian-Methods-for-Hackers/blob/master/Chapter1/20170504_Python_LT.ipynb
+- LT:https://github.com/currypan/Bayesian-Methods-for-Hackers/blob/master/Chapter1/20170504_Python_LT.pdf
