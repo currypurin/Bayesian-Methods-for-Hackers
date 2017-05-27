@@ -10,6 +10,7 @@ Pythonで体験するベイズ推論輪読会のページ。
 
 # 発表資料
 ## [第１章](https://github.com/currypan/Bayesian-Methods-for-Hackers/tree/master/Chapter1)
+## [第４章](https://speakerdeck.com/currypan/20170526-pythondeti-yan-surubeizutui-lun-lun-du-hui-di-4zhang-fa-biao-zi-liao)
 
 
 # 参考リンク２
